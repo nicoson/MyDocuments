@@ -2,6 +2,7 @@
 - [Vue](https://cn.vuejs.org/)
 - [Vuex](https://vuex.vuejs.org/zh-cn/state.html)
 - React
+- React Native
 - Angular 4
 - Typescript
 - Electron
