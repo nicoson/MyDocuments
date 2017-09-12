@@ -18,6 +18,8 @@
 
 ## Python:
 - [SciKit-learn](http://scikit-learn.org/stable/)
+- [TensorFlow](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
+- [TensorLayer](http://tensorlayercn.readthedocs.io/zh/latest/)
 
 ## Online Pay
 - [Alipay](https://docs.open.alipay.com/200/)
