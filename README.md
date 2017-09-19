@@ -16,7 +16,7 @@
 ## FrontEnd - CSS
 - [PostCss]()
 
-## Python:
+## MachineLearning/DeepLearning:
 - [SciKit-learn](http://scikit-learn.org/stable/)
 - [TensorFlow](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
 - [TensorLayer](http://tensorlayercn.readthedocs.io/zh/latest/)
