@@ -9,6 +9,8 @@
 - Electron
 - Hash
 - PostCss
+- Rx.js
+- Cycle.js
 
 ## FrontEnd - JS
 - [MediaDevice](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices)
