@@ -18,6 +18,11 @@
 ## FrontEnd - CSS
 - [PostCss]()
 
+## Hybird
+- [PhoneGap](http://docs.phonegap.com/getting-started/)
+- [Android Studio]
+- [Weex]
+
 ## MachineLearning/DeepLearning:
 - [SciKit-learn](http://scikit-learn.org/stable/)
 - [TensorFlow](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
