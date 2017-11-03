@@ -20,8 +20,11 @@
 
 ## Hybird
 - [PhoneGap](http://docs.phonegap.com/getting-started/)
+- [PhoneGap - Mobile Apk](https://github.com/phonegap/phonegap-app-developer/tree/master/resources/release)
+- [Cordova](http://cordova.axuer.com/)
 - [Android Studio]
 - [Weex]
+- [Ionic](https://ionicframework.com/)
 
 ## MachineLearning/DeepLearning:
 - [SciKit-learn](http://scikit-learn.org/stable/)
