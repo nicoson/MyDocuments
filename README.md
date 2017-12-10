@@ -11,6 +11,7 @@
 - PostCss
 - Rx.js
 - Cycle.js
+- Parcel.js
 
 ## FrontEnd - JS
 - [MediaDevice](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices)
