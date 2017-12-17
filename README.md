@@ -28,6 +28,9 @@
 - [Weex]
 - [Ionic](https://ionicframework.com/)
 
+## Python
+- [virtualenv](https://virtualenv.pypa.io/en/stable/)
+
 ## MachineLearning/DeepLearning:
 - [SciKit-learn](http://scikit-learn.org/stable/)
 - [TensorFlow](http://wiki.jikexueyuan.com/project/tensorflow-zh/)
