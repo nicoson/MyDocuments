@@ -7,8 +7,10 @@
 - Angular 4
 - Typescript
 - Electron
+
+## FrontEnd - Tech
+- [web terminal]()
 - Hash
-- PostCss
 - Rx.js
 - Cycle.js
 - Parcel.js
@@ -24,8 +26,8 @@
 - [PhoneGap - Mobile Apk](https://github.com/phonegap/phonegap-app-developer/tree/master/resources/release)
 - [Cordova](http://cordova.axuer.com/)
 - [Crosswalk](https://crosswalk-project.org/documentation/cordova.html)
-- [Android Studio]
-- [Weex]
+- [Android Studio]()
+- [Weex]()
 - [Ionic](https://ionicframework.com/)
 
 ## Python
@@ -46,4 +48,4 @@
 - [Unity3D](https://unity3d.com/)
 
 ## Other
-- [Block Chain]
+- [Block Chain]()
