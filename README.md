@@ -32,6 +32,7 @@
 
 ## Python
 - [virtualenv](https://virtualenv.pypa.io/en/stable/)
+- [docker](https://www.docker.com/)
 
 ## MachineLearning/DeepLearning:
 - [SciKit-learn](http://scikit-learn.org/stable/)
