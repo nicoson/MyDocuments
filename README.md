@@ -7,6 +7,7 @@
 - Angular 4
 - Typescript
 - Electron
+- [Egg.js](http://eggjs.org/zh-cn/intro/)
 
 ## FrontEnd - Tech
 - [web terminal]()
