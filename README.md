@@ -50,5 +50,9 @@
 ## Game
 - [Unity3D](https://unity3d.com/)
 
+## Bash
+- [iTerm2]()
+- [Oh my zsh]()
+
 ## Other
 - [Block Chain]()
