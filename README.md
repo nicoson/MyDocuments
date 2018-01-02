@@ -15,6 +15,7 @@
 - [Rx.js]()
 - [Cycle.js]()
 - [Parcel.js]()
+- [Sequelize.js]()
 
 ## FrontEnd - JS
 - [MediaDevice](https://developer.mozilla.org/en-US/docs/Web/API/MediaDevices)
