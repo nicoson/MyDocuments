@@ -42,6 +42,7 @@
 - [TensorLayer](http://tensorlayercn.readthedocs.io/zh/latest/)
 - [MXNet](http://mxnet.incubator.apache.org/)
 - [Kubernetes](https://www.kubernetes.org.cn/k8s)
+- [Pytorch](http://pytorch.org/)
 
 ## Online Pay
 - [Alipay](https://docs.open.alipay.com/200/)
